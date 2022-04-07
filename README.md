@@ -5,11 +5,18 @@
 
 ## God Object
 
+## Separation of concerns (SoC）
+關注點分離
 
-## 關注點分離（Separation of concerns，SoC）
+## MVC/MVP/MVVM
 
+## VIPER
 
+## Usecase
 
+## Clean Architecture
+
+## 領域驅動設計 Domain-driven design (DDD)
 
 ## WIP
 尤其是像我這類從遊戲引擎開始的很容易從畫面開始思考，
