@@ -8,6 +8,8 @@
 ## Separation of concerns (SoC）
 關注點分離
 
+## Architecture
+
 ## MVC/MVP/MVVM
 
 ## VIPER
@@ -15,6 +17,7 @@
 ## Usecase
 
 ## Clean Architecture
+Robert C. Martin，也被稱為鮑勃叔叔
 
 ## 領域驅動設計 Domain-driven design (DDD)
 
