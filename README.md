@@ -12,6 +12,8 @@
 
 ## MVC/MVP/MVVM
 
+## Rx
+
 ## VIPER
 
 ## Usecase
