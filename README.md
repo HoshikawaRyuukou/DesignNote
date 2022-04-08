@@ -24,6 +24,8 @@
 ## Clean Architecture
 Robert C. Martin，也被稱為鮑勃叔叔
 
+## CQRS
+
 ## 領域驅動設計 Domain-driven design (DDD)
 
 ## WIP
