@@ -17,12 +17,12 @@
 ## Task
 超長回調
 
-## VIPER
-
-## Usecase
-
 ## Clean Architecture
 Robert C. Martin，也被稱為鮑勃叔叔
+
+## DI
+
+## VIPER
 
 ## CQRS
 
