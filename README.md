@@ -20,6 +20,11 @@
 ## Clean Architecture
 Robert C. Martin，也被稱為鮑勃叔叔
 
+入門:
+[[譯]Android架構：Part1——那些年我們犯過的錯](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/657211/)
+
+
+
 ## DI
 
 ## VIPER
