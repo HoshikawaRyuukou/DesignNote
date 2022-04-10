@@ -21,8 +21,8 @@
 Robert C. Martin，也被稱為鮑勃叔叔
 
 入門:
-[[譯]Android架構：Part1——那些年我們犯過的錯](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/657211/)
-[為什麼你需要Use Case/Interactors](https://medium.com/@nukisnuke/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E9%9C%80%E8%A6%81use-case-interactors-99de03696037)
+* [[譯]Android架構：Part1——那些年我們犯過的錯](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/657211/)
+* [為什麼你需要Use Case/Interactors](https://medium.com/@nukisnuke/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E9%9C%80%E8%A6%81use-case-interactors-99de03696037)
 
 
 ## DI
